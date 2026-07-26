@@ -1,0 +1,9 @@
+# Ignore raw datasets
+**/Data/*.csv
+**/Data/*.json
+**/Data/*.zip
+
+# Ignore Python environment and cache
+__pycache__/
+.ipynb_checkpoints/
+.env
